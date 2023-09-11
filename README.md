@@ -4,8 +4,9 @@ Test3
 
 Hello. Here is Luan_Fuzi, a college student who's recently learning to  code.
 
+| [![Luan_Fuzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-Fuzi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Fuzi)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-[![Luan_Fuzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-Fuzi&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
