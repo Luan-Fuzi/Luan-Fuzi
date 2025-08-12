@@ -1,10 +1,8 @@
-欢迎，我是Luan_Fuzi，学习编程的大学生。
+你好，我是Luan_Fuzi。
+如果我的项目能或多或少帮助到你，那太好了。
 
-Welcome. I'm Luan_Fuzi, a college student who's currently learning programming.
-
-我希望能做出可以帮助更多人的作品。
-
-I hope to create projects that can help more people.
+Hi There. I'm Luan_Fuzi.
+It would be great if my project could be helpful to you.
 
 | [![Luan_Fuzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-Fuzi&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Fuzi)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
