@@ -4,7 +4,12 @@
 Hi There. I'm Luan_Fuzi.
 It would be great if my project could be helpful to you.
 
-<img src="https://raw.githubusercontent.com/Luan-Fuzi/Luan-Fuzi/metrics/github-metrics.svg" alt="Metrics" width="100%">
+<table>
+  <tr>
+    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/Luan-Fuzi/Luan-Fuzi/metrics/metrics.languages.svg" alt="Languages" width="100%"></td>
+    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/Luan-Fuzi/Luan-Fuzi/metrics/metrics.isocalendar.svg" alt="Contributions calendar" width="100%"></td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luan-Fuzi/Luan-Fuzi/output/github-contribution-grid-snake-dark.svg">
