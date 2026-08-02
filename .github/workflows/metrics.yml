@@ -24,6 +24,7 @@ jobs:
           output_condition: data-changed
           filename: metrics.languages.svg
           base: header, metadata
+          commits_authoring: Luan-Fuzi, Luan_Fuzi, w241liang@163.com
           plugin_languages: yes
           plugin_languages_sections: most-used, recently-used
           plugin_languages_recent_days: 14
@@ -39,6 +40,8 @@ jobs:
           base: metadata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          extras_css: |
+            svg[version="1.1"] { margin-top: -80px !important; }
 
       - uses: lowlighter/metrics@latest
         with:
@@ -48,10 +51,10 @@ jobs:
           output_condition: data-changed
           filename: metrics.badges.svg
           base: metadata
-          plugin_achievements: yes
-          plugin_achievements_display: compact
           plugin_topics: yes
           plugin_topics_mode: icons
+          plugin_stars: yes
+          plugin_stars_limit: 4
 
       - uses: lowlighter/metrics@latest
         with:
@@ -61,9 +64,8 @@ jobs:
           output_condition: data-changed
           filename: metrics.profile.svg
           base: metadata
+          commits_authoring: Luan-Fuzi, Luan_Fuzi, w241liang@163.com
           plugin_lines: yes
           plugin_lines_sections: repositories
           plugin_lines_repositories_limit: 4
-          plugin_16personalities: yes
-          plugin_16personalities_url: "https://www.16personalities.com/profiles/00b128afc1a27"
-          plugin_16personalities_scores: yes
+          plugin_fortune: yes
