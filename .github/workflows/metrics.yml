@@ -36,6 +36,34 @@ jobs:
           committer_branch: metrics
           output_condition: data-changed
           filename: metrics.isocalendar.svg
-          base_skip: yes
+          base: metadata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Shanghai
+          committer_branch: metrics
+          output_condition: data-changed
+          filename: metrics.badges.svg
+          base: metadata
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_topics: yes
+          plugin_topics_mode: icons
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Shanghai
+          committer_branch: metrics
+          output_condition: data-changed
+          filename: metrics.profile.svg
+          base: metadata
+          plugin_lines: yes
+          plugin_lines_sections: repositories
+          plugin_lines_repositories_limit: 4
+          plugin_16personalities: yes
+          plugin_16personalities_url: "https://www.16personalities.com/profiles/00b128afc1a27"
+          plugin_16personalities_scores: yes
