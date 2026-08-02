@@ -12,3 +12,5 @@ It would be great if my project could be helpful to you.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luan-Fuzi/Luan-Fuzi/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Luan-Fuzi/Luan-Fuzi/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img src="https://raw.githubusercontent.com/Luan-Fuzi/Luan-Fuzi/metrics/github-metrics.svg" alt="Metrics" width="100%">
