@@ -11,11 +11,3 @@ It would be great if my projects could be helpful to you.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luan-Fuzi/Luan-Fuzi/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Luan-Fuzi/Luan-Fuzi/output/github-contribution-grid-snake.svg">
 </picture>
-
-<img src="https://raw.githubusercontent.com/Luan-Fuzi/Luan-Fuzi/metrics/metrics.languages.svg" alt="Languages" width="100%">
-
-<img src="https://raw.githubusercontent.com/Luan-Fuzi/Luan-Fuzi/metrics/metrics.isocalendar.svg" alt="Contributions calendar" width="100%">
-
-<img src="https://raw.githubusercontent.com/Luan-Fuzi/Luan-Fuzi/metrics/metrics.badges.svg" alt="Starred topics and stars" width="100%">
-
-<img src="https://raw.githubusercontent.com/Luan-Fuzi/Luan-Fuzi/metrics/metrics.profile.svg" alt="Lines of code and fortune" width="100%">
